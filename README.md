@@ -1,13 +1,16 @@
 # 🏡 Ames Housing - Exploratory Data Analysis (EDA)
-## 📌 Objectif
-Ce projet analyse les facteurs influençant le prix des maisons à Ames.
 
-## 📊 Étapes du Projet
-1. Chargement et exploration des données
-2. Nettoyage des valeurs manquantes et des outliers
-3. Visualisation des relations entre les variables
-4. Feature Engineering (création de nouvelles variables)
+## 📌 Project Overview
+This project explores the **Ames Housing dataset** to identify key factors influencing house prices.
 
-## 🚀 Technologies utilisées
-- Python (pandas, numpy, matplotlib, seaborn)
-- Jupyter Notebook
+## 📊 Steps in the Analysis
+1. Data loading and initial exploration
+2. Handling missing values and outliers
+3. Visualizing key relationships
+4. Feature Engineering (creating new variables)
+5. (Optional) Basic predictive modeling
+
+## 🛠 Technologies Used
+- **Python**: pandas, numpy, matplotlib, seaborn
+- **Jupyter Notebook** for interactive analysis
+- **GitHub** for version control
